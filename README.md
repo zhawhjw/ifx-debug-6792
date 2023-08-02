@@ -1,2 +1,3 @@
 # ifx-debug-6197
-My cool new project!
+error #6197: An assignment of different structure types is invalid.   [CONSTRUCT]
+    allocated_neuron = neuron_t(layer_lines, start+1)
